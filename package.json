@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/seiyria/ng2-gameicons#readme",
   "dependencies": {
-    "gameicons-font": "github:seiyria/gameicons-font"
+    "gameicons-font": "github:idlelands/gameicons-font"
   },
   "peerDependencies": {
     "@angular/core": "2.0.0-rc.1"
